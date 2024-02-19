@@ -29,7 +29,19 @@
 
 ---
 
-### Software Engineering Student and Education Technologist 😊	
+### About Me Software Engineering Student and Education Technologist 😊	
+
+I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Rwanda.
+
+- :telescope: I’m a Software Engineer Student and open to contributing to frontend development for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I travel, volunteer and read and write tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joy-offere-411247219/)(j.offere@alustudent.com)
+- 
+- 
 <!--
 **JoyOffere/JoyOffere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
