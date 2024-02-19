@@ -29,7 +29,7 @@
 
 ---
 
-### Software Engineering Student and Education Technologist
+### Software Engineering Student and Education Technologist:blush:
 <!--
 **JoyOffere/JoyOffere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
