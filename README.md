@@ -29,7 +29,7 @@
 
 ---
 
-### :tech_girl: About Me :
+### Software Engineering Student and Education Technologist
 <!--
 **JoyOffere/JoyOffere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
