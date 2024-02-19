@@ -39,9 +39,14 @@ I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time, I travel, volunteer and read and write tech articles.
 
-- :mailbox:How to reach me: (j.offere@alustudent.com)
+- :mailbox: How to reach me (j.offere@alustudent.com)
 - 💬 Ask me about [![Linkedin Badge](https://img.shields.io/badge/-Joy_Offere-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joy-offere-411247219/)
-- 
+
+
+---
+
+### hammer_and_wrench: Languages and Tools 
+
 <!--
 **JoyOffere/JoyOffere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
