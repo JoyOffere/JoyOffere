@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@offerejoy">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=ymedium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=ymedium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
